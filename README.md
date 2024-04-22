@@ -6,7 +6,7 @@
 
 🏰 We will understand the problem of a real estate, and how to automatically train software to predict the Price of house. some of the paramerter of house is given below:
 
-Attribute Information:
+⛱️Attribute Information:
 
     1. CRIM      per capita crime rate by town
     2. ZN        proportion of residential land zoned for lots over 
